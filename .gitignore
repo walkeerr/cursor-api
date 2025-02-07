@@ -1,7 +1,6 @@
 /target
 /tools/*/target
 /*.log
-/*.env
 /static/*.min.html
 /static/*.min.css
 /static/*.min.js
